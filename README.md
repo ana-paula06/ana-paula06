@@ -1,11 +1,11 @@
 <h1 align="center">Hola 👋, Soy Ana Paula</h1>
 <h3 align="center">Estudiante de la Licenciatura en Ciencias de la Informática en UPIICSA</h3>
 
-- 🔭 I’m currently working on **UI/UX**
+- 🔭 Actualmente estoy trabajando en **Frontend**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 Actualmente estoy aprendiendo **React**
 
-- 📫 How to reach me **ana_paula2000@live.com.mx**
+- 📫 Como contactarme **ana_paula2000@live.com.mx**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
